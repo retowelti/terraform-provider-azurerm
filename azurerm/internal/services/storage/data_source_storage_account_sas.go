@@ -13,7 +13,7 @@ import (
 const (
 	connStringAccountKeyKey  = "AccountKey"
 	connStringAccountNameKey = "AccountName"
-	sasSignedVersion         = "2017-07-29"
+	sasSignedVersion         = "2019-10-10"
 )
 
 // This is an ACCOUNT SAS : https://docs.microsoft.com/en-us/rest/api/storageservices/Constructing-an-Account-SAS
